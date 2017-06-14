@@ -1,4 +1,4 @@
-###rtinst
+7###rtinst
 	
 ======
 #### 30 Second Guide
@@ -7,7 +7,7 @@ Ubuntu and Debian Seedbox Installation
 
 Download script
 
-	wget --no-check-certificate https://raw.githubusercontent.com/xjyxh1/rtinstall/master/rtinst.sh
+	wget --no-check-certificate https://raw.githubusercontent.com/pet185377/rtinstall/master/rtinst.sh
 
 and then to run it:
 
