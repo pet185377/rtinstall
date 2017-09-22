@@ -1,4 +1,7 @@
-7###rtinst
+对 bbr1的补充说明：online的机器在ubuntu系统下，开启bbr时会缺少两个文件，需创建文件夹并放入。相关文件位于bnx2
+
+
+###rtinst
 	
 ======
 #### 30 Second Guide
